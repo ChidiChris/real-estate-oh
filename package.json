@@ -96,6 +96,6 @@
     "webpack-dev-server": "^2.9.1"
   },
   "engines": {
-    "node": "9.x"
+    "node": "22.x"
   }
 }
